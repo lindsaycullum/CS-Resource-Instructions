@@ -3,7 +3,7 @@
 ## Getting Started with Scratch
 
 <ol>
-  <li> Click <a href="https://scratch.mit.edu/ideas" target="_blank">here</a> to explore tutorials.</li>
+  <li> Click <a href="https://scratch.mit.edu/ideas" target="_blank">here</a> to explore tutorials.<p></p></li>
 
   <li>Select "Create a story." 
     <p><img src="images/createAStoryScratchActivity.png" alt="Create a story Scratch Activity"></p>
