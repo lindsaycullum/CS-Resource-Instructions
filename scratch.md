@@ -5,7 +5,7 @@
 1. Click [here](https://scratch.mit.edu/ideas) to explore tutorials.
 <a href="https://scratch.mit.edu/ideas" target="_blank">Hello, world!</a>
 
-2. Select "Create a story." ![Create a story](https://drive.google.com/file/d/15lHU3ncFugv56P6j5b8Iz16dEi8YQnUS/view?usp=sharing)
+2. Select "Create a story." ![Create a story Scratch Activity](/images/createAStoryScratchActivity.png)
 Try out the tutorial to get a feel for the student experience. The educator guide will give you ideas on how to run a 1 hour tutorial using this resource. The Coding cards are useful if you want to print (and maybe laminate) instructions for students.
 
 3. Once your students have completed this tutorial, they will be prepared for animating their own story. This is a great way to make cross curricular connections. They will need to prepare by planning their story, and creating the assets - this could be finding images online, taking photographs, or drawing (then photographing the results.)
