@@ -6,6 +6,6 @@ This is a curated list of online resources that could be used in the junior clas
 2. [App Inventor](/app-inventor.md)
 3. [CMU CS Academy](/cmu-cs-academy.md)
 4. [Khan Academy](/khan-academy.md)
-5. Repl.it
+5. [Repl.it](/replit.md)
 
 _Content collected and organized by Lindsay Cullum_
