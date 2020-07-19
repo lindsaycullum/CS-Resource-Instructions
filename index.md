@@ -8,4 +8,4 @@ Please choose a resource below, and follow the instructions to set up your envir
 4. Khan Academy
 5. Repl.it
 
-[about](/about.md)
+##[about](/about.md)
