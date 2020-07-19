@@ -8,7 +8,7 @@
   <li>To get started, go to <a href="https://www.khanacademy.org/computing/computer-programming/programming" target="_blank">Unit: Intro to JavaScript: Drawing and Animation</a>.
   </li>
   <li>Try out some of the activities from this unit. The content starts as appropriate for Junior Students, and moves up to concepts that are generally introduced in high school.</li>
-  <li>Like CMU CS Academy, Khan Academy has a teacher interface that allows registering of students and overviewing their progress.</li>
+  <li>Khan Academy has a teacher interface that allows registering of students and overviewing their progress.</li>
       
 </ol>
 
