@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: CS Resource Instructions
+github:
+  is_project_page: false
