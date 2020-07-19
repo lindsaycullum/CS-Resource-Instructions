@@ -3,7 +3,7 @@
 ## Scratch Plan
 
 <ol>
-  <li> Click <a href="https://scratch.mit.edu/ideas" target="_blank">here</a> to explore tutorials. (Open this in a new tab.)</li>
+  <li> Click <a href="https://scratch.mit.edu/ideas" target="_blank">here</a> to explore tutorials.</li>
 
   <li>Select "Create a story." 
     <p><img src="https://github.com/lindsaycullum/cs-resource-instructions/blob/master/images/createAStoryScratchActivity.png" alt="Create a story Scratch Activity"></p>
