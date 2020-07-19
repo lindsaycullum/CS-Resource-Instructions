@@ -7,7 +7,7 @@
 
   <li>Select "Create a story." 
     <p>link from drive:<img src="https://drive.google.com/file/d/1a-Q73JGKGU-0B6gL6OFyeLize7QWmPwL/view?usp=sharing" alt="Create a story Scratch Activity"></p>
-    <p>link from github1:<img src="https//lindsaycullum.github.com/cs-resources-instructions/images/test.src" alt="gitlink"></p>
+    <p>link from github1:<img src="images/createAStoryScratchActivity.png" alt="gitlink"></p>
     <p>Try out the tutorial to get a feel for the student experience. The <a href="https://resources.scratch.mit.edu/www/guides/en/StoryGuide.pdf" target="_blank">educator guide</a> will give you ideas on how to run a 1 hour tutorial using this resource. The <a href="https://resources.scratch.mit.edu/www/cards/en/story-cards.pdf">Coding cards</a> are useful if you want to print (and maybe laminate) instructions for students.</p>
   </li>
   <li>Once your students have completed this tutorial, they will be prepared for animating their own story. This is a great way to make cross curricular connections. They will need to prepare by planning their story, and creating the assets - this could be finding images online, taking photographs, or drawing (then photographing the results.)
