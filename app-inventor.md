@@ -12,10 +12,10 @@
       <li><u>Cross curriculum project:</u> An interactive way to connect images and oral excerpts.</li>
     </ul>
   </li>
-    <p>The beginning of this course is suitable for junior students, and like Scratch, has students follow cookie-cutter tutorials to develop skills, and then introduces challenges that allows them to apply these skills in a creative way.<p></p></li>
-  <p><img src=></p>
+    <li>The beginning of this course is suitable for junior students, and like Scratch, has students follow cookie-cutter tutorials to develop skills, and then introduces challenges that allows them to apply these skills in a creative way. Students could work through the course in a self-directed way.</li>
+ 
 
-  <li>Click <a href="http://www.appinventor.org/content/ai2apps/simpleApps" target="_blank">here</a> to explore tutorials for basic apps that are easy enough for students who are experienced with Scratch. <p>Note that the instructions explain downloading software to lab computers. The application is now all web based, so this is not required.</p><p></p>  </li>
+  <li>Click <a href="http://www.appinventor.org/content/ai2apps/simpleApps" target="_blank">here</a> to explore other tutorials for basic apps that are easy enough for students who are experienced with Scratch. <p>Note that the instructions explain downloading software to lab computers. The application is now all web based, so this is not required.</p><p></p>  </li>
    
 </ol>
 
