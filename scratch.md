@@ -1,6 +1,6 @@
 [back to main menu](https://lindsaycullum.github.io/cs-resource-instructions)
 
-## Scratch Plan
+## Getting Started with Scratch
 
 <ol>
   <li> Click <a href="https://scratch.mit.edu/ideas" target="_blank">here</a> to explore tutorials.</li>
