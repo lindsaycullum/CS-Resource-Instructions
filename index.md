@@ -1,6 +1,6 @@
-## Welcome to CS Resource Instructions
+## Welcome to CS Resources for Junior Classrooms
 
-Please choose a resource below, and follow the instructions to set up your environment.
+This is a curated list of online resources that could be used in the junior classroom. Please choose a resource below, and follow the instructions to set up your environment.
 
 1. [Scratch](/scratch.md)
 2. [App Inventor](/app-inventor.md)
