@@ -13,6 +13,6 @@
     <p>Gathering Assets</p><p></p>
     <p>Students could take a photo to use as the backdrop of their story, use images found online, or use something within the Scratch environment. They may draw their characters using the Scratch online tools, or use a pre-existing character in the Scratch environment.</p><p></p> 
   <p>Using Student Artwork</p><p></p>
-  <p>It is very easy to use student artwork as the background for a story, but becomes more complicated if students want to use artwork and drawings as their characters. They will need to change the images into transparent PNGs, or the resulting animations will look clunky. One way to do it is to use an online tool to basically remove the white background and make it transparent: <a href="https://onlinepngtools.com/create-transparent-png" target="_blank">https://onlinepngtools.com/create-transparent-png</p>
+  <p>It is very easy to use student artwork as the background for a story, but becomes more complicated if students want to use artwork and drawings as their characters. They will need to change the images into transparent PNGs, or the resulting animations will look clunky. One way to do it is to use an online tool to basically remove the white background and make it transparent: <a href="https://onlinepngtools.com/create-transparent-png" target="_blank">https://onlinepngtools.com/create-transparent-png</a></p>
   </li>
 </ol>
