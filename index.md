@@ -1,6 +1,6 @@
 ## Computer Science Resources for Junior Classrooms
 
-This is a curated list of online resources that could be used in the junior classroom to meet the new coding expectations in the Ontario Mathematics 1-8 Curriculum. Please choose a resource below, and follow the instructions to set up your environment.
+This is a curated list of online resources that could be used in the junior classroom to meet the new coding expectations in the Ontario Mathematics 1-8 Curriculum. Please choose a resource below, and follow the instructions to get started.
 
 1. [Scratch](/scratch.md)
 2. [App Inventor](/app-inventor.md)
